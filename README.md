@@ -20,4 +20,3 @@ Plugin for Artemis capable of capturing RGB lighting from
 # Credits
 * https://github.com/Archomeda/lightfx-extender
 * https://github.com/antonpup/Aurora
-
